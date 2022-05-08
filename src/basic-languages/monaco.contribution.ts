@@ -62,6 +62,7 @@ import './redshift/redshift.contribution';
 import './restructuredtext/restructuredtext.contribution';
 import './ruby/ruby.contribution';
 import './rust/rust.contribution';
+import './sas/sas.contribution';
 import './sb/sb.contribution';
 import './scala/scala.contribution';
 import './scheme/scheme.contribution';
